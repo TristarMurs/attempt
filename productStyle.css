@@ -134,19 +134,19 @@ body {
 .pricehead {
     margin-top: 4%;
     margin-bottom: 0%;
-    font-size: 150%;
+    font-size: 1.55vw;
     font-weight: bold;
 }
 .perbag {
     margin-top: 0%;
     margin-bottom: 0%;
-    font-size: 200%;
+    font-size: 2.05vw;
     color: darkred;
     font-weight: bolder;
 }
 .perkilo {
     margin-top: 0%;
-    font-size: 170%;
+    font-size: 1.75vw;
     font-weight: bold;
     margin-top: 3%;
 }
@@ -168,7 +168,7 @@ body {
     width: 50%;
 }
 .rating {
-    font-size: 150%;
+    font-size: 1.55vw;
     margin-top: 16%;
     margin-left: 10%;
 }
@@ -190,12 +190,12 @@ body {
     flex-direction: row;
 }
 .avail-a {
-    font-size: 145%;
+    font-size: 1.5vw;
     clear: both;
     margin-top: 0%;
 }
 .avail-b {
-    font-size: 145%;
+    font-size: 1.5vw;
     font-weight: bold;
     color: chartreuse;
     margin-left: 8%;
@@ -219,12 +219,12 @@ body {
     margin-top: 0%;
     margin-left: 3%;
     margin-right: 4%;
-    font-size: 120%;
+    font-size: 1.25vw;
     cursor: pointer;
     /* total width is 18% */
 }
 .buying {
-    font-size: 130%;
+    font-size: 1.35vw;
     color: white;
     background-color: #dd722a;
     cursor: pointer;
