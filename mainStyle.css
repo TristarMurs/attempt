@@ -8,7 +8,7 @@ body {
 .header {
     display: flex;
     flex-direction: row;
-    height: 76px;
+    height: 5vw;
     margin-top: 3%;
 }
 
