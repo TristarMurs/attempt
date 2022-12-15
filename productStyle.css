@@ -89,7 +89,7 @@ body {
     clear: both;
     width: 100%;
     margin-top: 3%;
-    height: 600px;
+    height: 39.06vw;
 }
 .pic-box {
     height: 100%;
@@ -251,7 +251,7 @@ body {
     background-color: ivory;
 }
 .coffeedesc {
-    font-size: 120%;
+    font-size: 1.25vw;
     padding: 1%;
     text-align: center;
 }
@@ -264,7 +264,7 @@ body {
     border-style: solid;
     border-radius: 4px;
     border-width: 3px;
-    height: 40%;
+    height: 12vw;
 }
 .boxyprime {
     display: flex;
@@ -283,6 +283,8 @@ body {
 
 .boxy-a {
     width: 50%;
-    font-size: 110%;
+    font-size: 1.15vw;
     margin-left: 2%;
+    margin-top: auto;
+    margin-bottom: auto;
 }
