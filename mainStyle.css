@@ -170,13 +170,13 @@ h2 {
 }
 
 .price-now {
-    font-size: 140%;
+    font-size: 1.45vw;
     color: darkred;
     font-weight: bold;
     z-index: 3;
 }
 .price {
-    font-size: 130%;
+    font-size: 1.4vw;
     text-decoration: line-through;
 }
 .linkki {
